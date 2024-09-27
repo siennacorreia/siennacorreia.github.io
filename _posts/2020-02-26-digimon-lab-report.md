@@ -3,7 +3,7 @@ layout: post
 title: Digimon Lab #1 Report
 subtitle: Reflection of Process!
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/sunset.png
+thumbnail-img: /assets/img/Digimon.png
 share-img: /assets/img/path.jpg
 tags: 
 author: Sienna Correia
