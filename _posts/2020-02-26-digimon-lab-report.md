@@ -10,9 +10,9 @@ author: Sienna Correia
 ---
 
 ## Tasks:
-### Find the average HP of all Digimon
-### Write a function that can count the number of Digimon with a specific attribute
-### If your Digimon team only has 15 Memory, name a team of up to 3 Digimon that has at least 300 attack (Atk) in total
+1. Find the average HP of all Digimon
+2. Write a function that can count the number of Digimon with a specific attribute
+3. If your Digimon team only has 15 Memory, name a team of up to 3 Digimon that has at least 300 attack (Atk) in total
 
 ## Methods
 What methods you tried
