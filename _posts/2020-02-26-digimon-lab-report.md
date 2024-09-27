@@ -9,15 +9,15 @@ tags:
 author: Sienna Correia
 ---
 
-# Methods
+## Methods
 What methods you tried
 
 ## Steps that Worked
 what worked or didn't work
 
-### Challenges
+## Challenges
 what could have gone better
 
-#### Skills Learned
+## Skills Learned
 what you learned during this lab 
 screenshots, pseudocode, etc to elaborate on your response!
