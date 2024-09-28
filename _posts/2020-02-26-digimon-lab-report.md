@@ -24,6 +24,7 @@ author: Sienna Correia
 ## Steps that Worked
 Task 1: First, I created an empty `total_HP` list, then I added all HP values from the file, next I used that value to find the average HP value by dividing the sum of the `total_HP` by the length of the `total_HP`, and finally I printed the `avg_HP` value.
 
+(entire task 1 code)
 >        import csv
 > 
 >       with open("datasets/digimon.csv", "r") as f:
@@ -40,6 +41,7 @@ Task 1: First, I created an empty `total_HP` list, then I added all HP values fr
 
 Task 2: First, I started with creating an empty `species_data` list with all rows from the data dictionary. I then created a `count` variable and counted the total digimon in stage baby. This was a very narrowly focused code, so to generalize it for any attribute, I still had an empty list, however, created a function to  increase `count` if the attribute corresponded to the value.
 
+(generalized function code)
 >    def count_digimon_attribute(species_data, attribute, value):
 >
 >      count = 0
@@ -52,7 +54,16 @@ Task 2: First, I started with creating an empty `species_data` list with all row
 >
 >      return count
 
-Task 3: ___
+Task 3: 
+
+(nested for loop 3 code)
+>    elif n == 3: # team size is 3 (same idea as adding 2, another nested for loop)
+>       for element in range(len(data)):
+>          for element2 in range(element + 1, len(data)):
+>              for element3 in range(element2 + 1, len(data)):
+>                  team = [data[element], data[element2], data[element3]]
+>                  if is_valid(team):
+>                      return team
 
 
 ## Challenges
