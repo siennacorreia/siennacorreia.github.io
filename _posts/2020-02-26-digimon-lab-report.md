@@ -54,7 +54,7 @@ Task 2: First, I started with creating an empty `species_data` list with all row
 >
 >      return count
 
-Task 3: First, I generated an if statement that checked if one digimon fulfilled the requirements, however I then realized that I would need a nested for loop to generate the team with my desired requirenments rather than only an if statement. 
+Task 3: First, I generated an if statement that checked if one digimon fulfilled the requirements, however I then realized that I would need a nested for loop to generate the team with my desired requirements. 
 
 (original if statement code)
 >      if r == 1 and int(row["Memory"]) <= 15 and int(row["Atk"]) >= 70:
