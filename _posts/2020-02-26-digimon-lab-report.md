@@ -42,7 +42,7 @@ Task 1: First, I created an empty `total_HP` list, then I added all HP values fr
 Task 2: First, I started with creating an empty `species_data` list with all rows from the data dictionary. I then created a `count` variable and counted the total digimon in stage baby. This was a very narrowly focused code, so to generalize it for any attribute, I still had an empty list, however, created a function to  increase `count` if the attribute corresponded to the value.
 
 (generalized function code)
->    def count_digimon_attribute(species_data, attribute, value):
+>      def count_digimon_attribute(species_data, attribute, value):
 >
 >      count = 0
 >
