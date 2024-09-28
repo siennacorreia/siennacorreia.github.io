@@ -61,10 +61,15 @@ Task 3: First, I generated an if statement that checked if one digimon fulfilled
 
 (nested for loop part 3 code)
 >    elif n == 3: # team size is 3 (same idea as adding 2, another nested for loop)
+> 
 >       for element in range(len(data)):
+> 
 >          for element2 in range(element + 1, len(data)):
+> 
 >              for element3 in range(element2 + 1, len(data)):
+> 
 >                  team = [data[element], data[element2], data[element3]]
+> 
 >                  if is_valid(team):
 >                      return team
 
