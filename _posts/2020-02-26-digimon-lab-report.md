@@ -19,7 +19,7 @@ author: Sienna Correia
 ## Methods
 1. For completing task one, I chose to create a list to hold all HP values found in the Digimon csv file. 
 2. For task two, I created list to hold all data in the file. Then I created a function to check and count up for each digimon that had the value for the attribute being checked. Finally I made an if statement that could be modified for any value and attribute, which assigned values to the variables `value` and `attribute`, and printed the number of Digimon for an attribute with that value.    
-3. In order to accomplish task 3, I created 
+3. In order to accomplish task 3, I attempted to make teams of 1-3 Digimon, then called the `make_team` function to check if the combinations of Digimon met the criteria, and printed the `team_names`, `total_memory`, and "total_attack`.
 
 ## Steps that Worked
 Task 1: First, I created an empty `total_HP` list, then I added all HP values from the file, next I used that value to find the average HP value by dividing the sum of the `total_HP` by the length of the `total_HP`, and finally I printed the `avg_HP` value.
