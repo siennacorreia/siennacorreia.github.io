@@ -31,7 +31,7 @@ Task 1: First, I created an empty `total_HP` list, then I added all HP values fr
 >  for row in data:
 >      total_HP.append(float(row["HP"]))       
 >avg_HP = sum(total_HP) / len(total_HP)
->print(f"1. The total HP for all digimon is: {avg_HP}")`
+>print(f"1. The total HP for all digimon is: {avg_HP}")
 
 Task 2: First, I started with creating an empty `species_data` list with all rows from the data dictionary. I then created a `count` variable and counted the total digimon in stage baby. This was a very narrowly focused code, so to generalize it for any attribute, I still had an empty list, however, created a function to  increase `count` if the attribute corresponded to the value.
 
@@ -41,7 +41,7 @@ Task 2: First, I started with creating an empty `species_data` list with all row
 >      # Check for the attribute
 >      if row[attribute] == value:
 >          count += 1
->  return count`
+>  return count
 
 Task 3: ___
 
