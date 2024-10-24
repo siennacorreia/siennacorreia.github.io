@@ -3,7 +3,7 @@ layout: post
 title: Meta Analysis
 subtitle: Orbital Prosthesis Rehabilitation in Biomedical Engineering by Means of Computer Vision-Photogrammetry and 3D Prototyping
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/Digimon.png
+thumbnail-img: /assets/img/InitialEye.png
 share-img: /assets/img/path.jpg
 tags: 
 author: Sienna Correia
