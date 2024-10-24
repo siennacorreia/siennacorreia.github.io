@@ -16,9 +16,9 @@ On the contrary, the alternative hypothesis is...
 
 ## Data Researchers
 Mohammed R. Falih: 
-Falih conducted this research as part of his MSc studies at the College of Engineering, University of Baghdad. His work focused on rehabilitation approaches for maxillofacial deformities and the prototyping of orbital prostheses, aiming to provide alternative solutions to invasive methods in biomedical engineering applications. He was also primarily responsible for preparing the manuscript.
+Falih, currently working as a lecturer in the College of Engineering, University of Baghdad, conducted this research as part of his MSc studies. His work focused on rehabilitation approaches for maxillofacial deformities and the prototyping of orbital prostheses, aiming to provide alternative solutions to invasive methods in biomedical engineering applications. He was also primarily responsible for preparing the manuscript.
 Fanar M. Abed:
-Abed supervised Falih's MSc research and played a key role in its development. She previously led research in photogrammetry and laser scanning at the College of Engineering, University of Baghdad, which forms the foundation of this study. Abed contributed significantly to the manuscript’s development, revision, and refinement.
+Abed, a scientific researcher who received the B.Sc. degree in surveying engineering and the M.Sc. degree in photogrammetry from Baghdad University, Engineering College, Baghdad, supervised Falih's MSc research and played a key role in its development. She previously led research in photogrammetry and laser scanning at the College of Engineering, University of Baghdad, which forms the foundation of this study. Abed contributed significantly to the manuscript’s development, revision, and refinement.
 
 
 ## Referenced Datasets
