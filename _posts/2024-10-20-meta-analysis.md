@@ -47,7 +47,9 @@ The study is only interested in collecting data from the patients face therefore
 
 
 ## Evidence to Support Conclusions
-1. 
+![The prosthesis on the eye](/assets/img/Final.png)
+The author concluded that the prosthetics extraction-based computer vision photogrammetry “provides a high-accuracy digital impression that is subsequently used in fabricating prostheses virtually” (14, Conclusion) The recorded data depicts the accuracy by comparing  the image without prosthesis on page 09 Figure 04 to the end result with the generated prosthesis. (14, Figure 10) The accuracy can also be observed when examining the facial symmetry of the patient wearing the prosthesis.
+The” high accuracy” of the digital impression was proven by both the RMSE checkpoint data and the 3Dreshaper evaluation of the match of the restored eye model with the original model.  Table 4 on page 11 showed the total RMSE error in the X and Y Coordinates to be highly acceptable at 0 .041 mm and 0.055 mm respectively and the color map on page 13, Figure 8 explained the error rate of the various optical area components.
 
 
 ## Funding
@@ -55,7 +57,7 @@ The paper did not outline funding however the research was part of the authors M
 
 
 ## Perish or Public Effect on Study
-No, I don't think publish or perish had a major effect on the study. This study has over 30 referenced papers related to the study’s data collection and area of interest, as well as showing the timeline of the study (2013 to present) .  
-
-In 2021 the same author wrote a study on The Value of Stereo-Photogrammetry and 3D Prototype Printing for Plastic and Reconstructive Surgery.
+The idea of publish or perish expresses the pressure faced by academics to publish their research. No, I don't think publish or perish had a major effect on the study. This study has over 30 referenced papers related to the study’s data collection and area of interest, as well as showing the timeline of the study (2013 to present).  Among the referenced papers, is an article that the principal investigator Falih, wrote alongside other researchers. (Falih,   M.R., Efficiency   of   +IDonBlender Photogrammetric   Tool   in   Facial   Prosthetics   Rehabilitation An Evaluation Study. Karbala International Journal of Modern Science, 2021) 
+In 2021, Falih also wrote a study on The Value of Stereo-Photogrammetry and 3D Prototype Printing for Plastic and Reconstructive Surgery.
 https://www.researchgate.net/publication/368960995_The_Value_of_Stereo-Photogrammetry_and_3D_Prototype_Printing_for_Plastic_and_Reconstructive_Surgery
+
