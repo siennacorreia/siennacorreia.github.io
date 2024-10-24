@@ -9,8 +9,9 @@ tags:
 author: Sienna Correia
 ---
 
-## Null and Alternative Hypotheses:
 ![The patient’s healthy and missing eye](/assets/img/InitialEye.png)
+
+## Null and Alternative Hypotheses:
 Null Hypothesis: The null hypothesis in this study is that there is no significant difference in the functional outcomes or patient satisfaction between individuals fitted with orbital prostheses created using computer vision and 3D prototyping techniques and those fitted with traditionally manufactured orbital prostheses. 
 Alternative Hypothesis: In comparison, the alternative hypothesis suggests that this new technique provides measurable benefits over the traditional orbital prostheses, indicating that patient satisfaction could be enhanced through the use of this accessible and non-invasive new technology. 
 
