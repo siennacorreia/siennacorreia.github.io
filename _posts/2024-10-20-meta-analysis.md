@@ -59,5 +59,5 @@ The paper did not outline funding however the research was part of the authors M
 ## Perish or Public Effect on Study
 The idea of publish or perish expresses the pressure faced by academics to publish their research. No, I don't think publish or perish had a major effect on the study. This study has over 30 referenced papers related to the study’s data collection and area of interest, as well as showing the timeline of the study (2013 to present).  Among the referenced papers, is an article that the principal investigator Falih, wrote alongside other researchers. (Falih,   M.R., Efficiency   of   +IDonBlender Photogrammetric   Tool   in   Facial   Prosthetics   Rehabilitation An Evaluation Study. Karbala International Journal of Modern Science, 2021) 
 In 2021, Falih also wrote a study on The Value of Stereo-Photogrammetry and 3D Prototype Printing for Plastic and Reconstructive Surgery.
-https://www.researchgate.net/publication/368960995_The_Value_of_Stereo-Photogrammetry_and_3D_Prototype_Printing_for_Plastic_and_Reconstructive_Surgery
+[https://www.researchgate.net/publication/368960995_The_Value_of_Stereo] Photogrammetry_and_3D_Prototype_Printing_for_Plastic_and_Reconstructive_Surgery
 
