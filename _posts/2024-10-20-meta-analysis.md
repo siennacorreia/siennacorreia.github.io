@@ -24,21 +24,23 @@ Abed, a scientific researcher who received the B.Sc. degree in surveying enginee
 ## Referenced Datasets
 1.
 
+
 ## Interest in the Study
 The main goal of the study outlined in the paper is to explore how the photogrammetric technique, using computer vision-photogrammetry and 3D prototyping, can be a successful noninvasive and low-cost method for fabricating an orbital prosthesis for patients who have one healthy eye. The study will outline a detailed procedure which can then be used in the biomedical engineering field to create an automatic digital routine for the manufacturing of orbital prosthesis. The procedure will include the necessary photographic settings, the optimal capturing plan, and evaluation of the generated model.
 
 
 ## Recorded Data / Data Leftout
 1. 
+![The patient’s healthy and missing eye](/assets/img/DataCapturing.png)
 
-## Interest in Data Collection
+
+## Evidence to Support Conclusions
 1. 
 
-## Evidence
-1. 
 
 ## Funding
 1. 
+
 
 ## Perish or Public Effect on Study
 1. 
