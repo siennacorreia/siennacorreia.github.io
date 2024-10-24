@@ -37,10 +37,14 @@ The main goal of the study outlined in the paper is to explore how the photogram
 
 
 ## Recorded Data / Data Leftout
-1. 
-[A diagram to depict the method of data image capturing](/assets/img/DataCapturing.png)
+[A diagram to depict the method of data image capturing](/assets/img/PhotoCapturing.png)
+The study uses the computer vision based Structure from Motion Multi View Stereo (SfM-MVS) photogrammetric technique to obtain an image based dataset and reconstruct a 3D model from 2D pictures. The patient's facial data was collected using an IPhone 11 Pro Max camera. 102 images at 4032 X 3024 resolution were captured from multiple camera exposure stations set at different angles and distances from the patient’s face to obtain overlapping images. 
+
 [A data table with RMSE checkpoints](/assets/img/RMSE.png)
 [A visual of the RMSE checkpoints from the dataset](/assets/img/VisualData.png)
+This data is uploaded into the Metashape 3D reconstruction software that runs the Sfm algorithm to generate an accurate 3D model. The large number of overlapping images is important for accuracy, error detection and triangulation (mathematical method used to calculate the distances and relative 3D position (depth) of points in an image based on the different camera positions and the angles formed between the cameras and the object). The SfM algorithm uses the overlapping data to cross check feature matches, helping to reduce errors caused by poor lighting, human error, or other factors. As part of the Sfm-MVS algorithms the triangulation process also requires a large amount of overlapping data to create the high density point cloud of x,y and z coordinates representing the position in 3D space. This high density allows for a more detailed and accurate representation of the object’s surface capturing  intricate details such as textures and fine geometric features, which are necessary for creating accurate 3D models. 
+The study is only interested in collecting data from the patients face therefore all other image data is ignored.
+
 
 ## Evidence to Support Conclusions
 1. 
