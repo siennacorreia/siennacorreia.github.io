@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Digimon Lab #1 Report
-subtitle: Reflection of My Process!
+title: Meta Analysis
+subtitle: Article: Orbital Prosthesis Rehabilitation in Biomedical Engineering by Means of Computer Vision-Photogrammetry and 3D Prototyping
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/Digimon.png
 share-img: /assets/img/path.jpg
