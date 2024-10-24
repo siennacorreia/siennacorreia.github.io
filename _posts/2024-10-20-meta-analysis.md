@@ -10,7 +10,9 @@ author: Sienna Correia
 ---
 
 ## Null and Alternative Hypotheses:
-1.  
+![The patient’s healthy and missing eye] (/assets/img/InitialEye.png)
+The null hypothesis is...
+On the contrary, the alternative hypothesis is...
 
 ## Data Researchers
 1. 
