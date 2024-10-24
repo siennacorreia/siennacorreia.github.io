@@ -51,8 +51,11 @@ The study is only interested in collecting data from the patients face therefore
 
 
 ## Funding
-1. 
+The paper did not outline funding however the research was part of the authors MSc studies in the College of Engineering at the Public University of Baghdad. Public research universities receive funds from the Government.  
 
 
 ## Perish or Public Effect on Study
-1. 
+No, I don't think publish or perish had a major effect on the study. This study has over 30 referenced papers related to the study’s data collection and area of interest, as well as showing the timeline of the study (2013 to present) .  
+
+In 2021 the same author wrote a study on The Value of Stereo-Photogrammetry and 3D Prototype Printing for Plastic and Reconstructive Surgery.
+https://www.researchgate.net/publication/368960995_The_Value_of_Stereo-Photogrammetry_and_3D_Prototype_Printing_for_Plastic_and_Reconstructive_Surgery
