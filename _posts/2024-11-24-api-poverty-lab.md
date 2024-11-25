@@ -13,7 +13,7 @@ author: Sienna Correia
 
 ## Selected Countries and Years:
 Countries: India, Brazil, US, Germany, Argentina, Colombia, Sweden, Italy, Japan, Mexico
-Years: 2015-2022
+Years: 2012-2022
 
 ## Steps:
 XX
@@ -30,16 +30,36 @@ Poverty Headcount (National Poverty Lines): The percentage of the population liv
 
 ## Selection and Results
 ### Selection: 
-I chose these countries—Argentina, Brazil, Colombia, Germany, India, Italy, Japan, Mexico, Sweden, and the United States—because they represent a diverse mix of developed and developing nations across various continents, offering valuable insights into global poverty trends, income distribution, and economic challenges.
+I chose these countries—Argentina, Brazil, Colombia, Germany, India, Italy, Japan, Mexico, Sweden, and the United States—because they represent a diverse mix of developed and developing nations across various continents, offering valuable insights into global poverty trends, income distribution, and economic challenges. I chose a 10 year range from 2012 to 2022, allowing for a considerate number of years to better understand trends.  
 
 ### Results: 
-Argentina shows a decrease in the poverty gap from 2020 to 2022 and a similar decrease in the poverty headcount at the national poverty line.
-Brazil has an increase in the poverty gap in 2021, but a slight decrease in 2022. The national poverty line data is missing for 2020.
-Colombia has data for all years but shows fluctuations in the poverty gap and income share.
-Germany, India, Italy, and Japan have incomplete data for 2021 and 2022.
-Mexico has some missing data in 2021, but 2022 shows an improvement in the poverty gap and a decrease in the national poverty line.
-Sweden has consistent data showing a relatively low poverty gap and income share for the lowest income groups.
-United States has a stable poverty gap and a decreasing poverty headcount in 2021, but data is missing for 2022.
+1. Countries with Decreasing Poverty Over the Decade
+Argentina:
+A steady decline in the poverty gap from 0.3 in 2012 to 0.2 in 2022. The national poverty headcount also dropped significantly, from highs of 42.0% in 2020 to 39.2% in 2022.
+India:
+Marked reductions in poverty indicators, with the headcount at $2.15/day decreasing from 18.8% in 2015 to 12.9% in 2021. Although 2022 data is missing, the overall trend suggests consistent improvement.
+Mexico:
+A slight decline in the poverty gap, from 1.2 in 2012 to 0.3 in 2022, alongside a reduction in the national poverty headcount, which fell to 36.3% by 2022.
+
+2. Countries with Stable Low Poverty
+Germany:
+Consistently low poverty gap (0–0.2) and poverty headcount at $2.15/day (~0%), with a stable national poverty headcount around 16%.
+Sweden:
+Maintains a low poverty gap (0.1–0.6) and stable income share for the lowest groups. The national poverty headcount remains near 16% throughout the decade, reflecting strong economic equality.
+
+4. Countries with Fluctuating Trends
+Brazil:
+Shows variations in the poverty gap, peaking at 2.1 in 2021 before improving to 1.2 in 2022. However, the poverty headcount at $2.15/day fluctuates without a clear long-term trend. National poverty line data is notably missing for some key years (2020).
+Colombia:
+Experiences a spike in the poverty gap in 2020 (4.4) during global economic challenges but shows improvement by 2022 (2.4). The national poverty headcount decreases from 39.7% in 2021 to 36.6% in 2022, indicating recovery.
+
+5. Countries with Incomplete or Inconsistent Data
+Italy:
+Relatively stable indicators through 2019, but data for 2021 and 2022 is missing. The national poverty headcount fluctuated slightly, ranging around 19–20% until 2020.
+Japan:
+Sparse data across the decade, especially for 2021 and 2022. Earlier years suggest very low poverty levels.
+United States:
+The poverty gap remained stable (~0.8–1.0) with a slight decrease in the poverty headcount in 2021, but missing data for 2022 limits recent analysis.
 
 ## world_bank_poverty_data.csv
 > Country,country_iso3,Year,Poverty Gap ($2.15 a day),Income Share (Lowest 10%),Income Share (Lowest 20%),Poverty Headcount ($2.15 a day),Poverty Headcount (National Poverty Lines)
