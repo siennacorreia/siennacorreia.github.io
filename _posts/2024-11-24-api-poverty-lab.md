@@ -11,4 +11,7 @@ author: Sienna Correia
 
 ![world bank](/assets/img/world_bank.png)
 
-## Steps:
+## Selected Countries and Years:
+Countries: India, Brazil, US, Germany, Argentina, Colombia, Sweden, Italy, Japan
+Years: 2020-2022
+
