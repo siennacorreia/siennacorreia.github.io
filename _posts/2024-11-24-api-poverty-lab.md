@@ -16,11 +16,7 @@ Countries: India, Brazil, US, Germany, Argentina, Colombia, Sweden, Italy, Japan
 Years: 2020-2022
 
 ## Steps:
-
-## Selection and Results
-Selection: I chose to look at my selected countries (India, Brazil, US, Germany, Argentina, Colombia, Sweden, Italy, Japan, Mexico) because I wanted to demonstrate diverse data for my selected poverty and income indicators.
-
-Results: 
+XX
 
 ## CSV Data Attributes
 Country: The name of the country.
@@ -32,6 +28,20 @@ Income Share (Lowest 20%): The share of income held by the lowest 20% of the pop
 Poverty Headcount ($2.15 a day): The percentage of the population living below $2.15 a day.
 Poverty Headcount (National Poverty Lines): The percentage of the population living below the national poverty line.
 
+## Selection and Results
+### Selection: 
+I chose these countries—Argentina, Brazil, Colombia, Germany, India, Italy, Japan, Mexico, Sweden, and the United States—because they represent a diverse mix of developed and developing nations across various continents, offering valuable insights into global poverty trends, income distribution, and economic challenges.
+
+### Results: 
+Argentina shows a decrease in the poverty gap from 2020 to 2022 and a similar decrease in the poverty headcount at the national poverty line.
+Brazil has an increase in the poverty gap in 2021, but a slight decrease in 2022. The national poverty line data is missing for 2020.
+Colombia has data for all years but shows fluctuations in the poverty gap and income share.
+Germany, India, Italy, and Japan have incomplete data for 2021 and 2022.
+Mexico has some missing data in 2021, but 2022 shows an improvement in the poverty gap and a decrease in the national poverty line.
+Sweden has consistent data showing a relatively low poverty gap and income share for the lowest income groups.
+United States has a stable poverty gap and a decreasing poverty headcount in 2021, but data is missing for 2022.
+
+## world_bank_poverty_data.csv
 > Country,country_iso3,Year,Poverty Gap ($2.15 a day),Income Share (Lowest 10%),Income Share (Lowest 20%),Poverty Headcount ($2.15 a day),Poverty Headcount (National Poverty Lines)
 > Argentina,ARG,2020,0.4,1.7,4.7,1.2,42
 > Argentina,ARG,2021,0.4,1.8,5,0.9,37.3
