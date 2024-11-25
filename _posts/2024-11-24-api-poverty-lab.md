@@ -45,42 +45,62 @@ United States has a stable poverty gap and a decreasing poverty headcount in 202
 > Country,country_iso3,Year,Poverty Gap ($2.15 a day),Income Share (Lowest 10%),Income Share (Lowest 20%),Poverty Headcount ($2.15 a day),Poverty Headcount (National Poverty Lines)
 > 
 > Argentina,ARG,2020,0.4,1.7,4.7,1.2,42
+> 
 > Argentina,ARG,2021,0.4,1.8,5,0.9,37.3
+> 
 > Argentina,ARG,2022,0.2,2,5.4,0.6,39.2
 > 
 > Brazil,BRA,2020,0.7,1.6,4.5,2,
+> 
 > Brazil,BRA,2021,2.1,1,3.3,5.8,
+> 
 > Brazil,BRA,2022,1.2,1.2,3.6,3.5,
 > 
 > Colombia,COL,2020,4.4,0.9,3.1,9.4,
+> 
 > Colombia,COL,2021,2.9,1,3.1,7.3,39.7
+> 
 > Colombia,COL,2022,2.4,1,3.2,6,36.6
 > 
 > Germany,DEU,2020,0.2,2.9,7.8,0.2,16
+> 
 > Germany,DEU,2021,,,,,14.8
+> 
 > Germany,DEU,2022,,,,,
 > 
 > India,IND,2020,3.4,3.2,7.7,15.5,
+> 
 > India,IND,2021,2.7,3.3,8,12.9,
+> 
 > India,IND,2022,,,,,
 > 
 > Italy,ITA,2020,0.6,2.1,6.3,0.8,20.1
+> 
 > Italy,ITA,2021,0.6,2.3,6.5,0.8,20.1
+> 
 > Italy,ITA,2022,,,,,
 > 
 > Japan,JPN,2020,,,,,
+> 
 > Japan,JPN,2021,,,,,
+> 
 > Japan,JPN,2022,,,,,
 > 
 > Mexico,MEX,2020,0.6,2,5.3,2.1,43.9
+> 
 > Mexico,MEX,2021,,,,,
+> 
 > Mexico,MEX,2022,0.3,2.1,5.6,1.2,36.3
 > 
 > Sweden,SWE,2020,0.3,3,8.2,0.4,15.7
+> 
 > Sweden,SWE,2021,0.4,2.8,7.8,0.6,16
+> 
 > Sweden,SWE,2022,,,,,16.1
 > 
 > United States,USA,2020,0.2,2,5.7,0.2,
+> 
 > United States,USA,2021,0.2,2.3,6.1,0.2,
+> 
 > United States,USA,2022,1,1.8,5.2,1.2,
 
