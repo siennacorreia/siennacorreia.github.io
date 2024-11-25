@@ -9,6 +9,6 @@ tags:
 author: Sienna Correia
 ---
 
-![The patient’s healthy and missing eye](/assets/img/InitialEye.png)
+![world bank](/assets/img/world_bank.png)
 
 ## Steps:
