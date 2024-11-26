@@ -23,7 +23,7 @@ To fetch a complete list of all countries, including their ISO3 codes and names,
 
 https://api.worldbank.org/v2/country/{country_iso3}?format=json
 
-To retrieve detailed metadata (e.g., country name) for a specific country using its ISO3 code during runtime.
+To retrieve detailed data (ex. country name) for a specific country using its ISO3 code during runtime.
 
 https://api.worldbank.org/v2/country/{country_iso3}/indicator/{indicator}
 
