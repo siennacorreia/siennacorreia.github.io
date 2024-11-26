@@ -53,7 +53,7 @@ Poverty Headcount (National Poverty Lines): The percentage of the population liv
 I chose these countries—Argentina, Brazil, Colombia, Germany, India, Italy, Japan, Mexico, Sweden, and the United States—because they represent a diverse mix of developed and developing nations across various continents, offering valuable insights into global poverty trends, income distribution, and economic challenges. I chose a 10 year range from 2012 to 2022, allowing for a considerate number of years to better understand trends.  
 
 ### Results: 
-1. Countries with Decreasing Poverty Over the Decade
+#### Countries with Decreasing Poverty Over the Decade
    
 Argentina: A steady decline in the poverty gap from 0.3 in 2012 to 0.2 in 2022. The national poverty headcount also dropped significantly, from highs of 42.0% in 2020 to 39.2% in 2022.
 
@@ -61,19 +61,19 @@ India: Marked reductions in poverty indicators, with the headcount at $2.15/day 
 
 Mexico: A slight decline in the poverty gap, from 1.2 in 2012 to 0.3 in 2022, alongside a reduction in the national poverty headcount, which fell to 36.3% by 2022.
 
-3. Countries with Stable Low Poverty
+#### Countries with Stable Low Poverty
    
 Germany: Consistently low poverty gap (0–0.2) and poverty headcount at $2.15/day (~0%), with a stable national poverty headcount around 16%.
 
 Sweden: Maintains a low poverty gap (0.1–0.6) and stable income share for the lowest groups. The national poverty headcount remains near 16% throughout the decade, reflecting strong economic equality.
 
-4. Countries with Fluctuating Trends
+#### Countries with Fluctuating Trends
    
 Brazil: Shows variations in the poverty gap, peaking at 2.1 in 2021 before improving to 1.2 in 2022. However, the poverty headcount at $2.15/day fluctuates without a clear long-term trend. National poverty line data is notably missing for some key years (2020).
 
 Colombia: Experiences a spike in the poverty gap in 2020 (4.4) during global economic challenges but shows improvement by 2022 (2.4). The national poverty headcount decreases from 39.7% in 2021 to 36.6% in 2022, indicating recovery.
 
-5. Countries with Incomplete or Inconsistent Data
+#### Countries with Incomplete or Inconsistent Data
    
 Italy: Relatively stable indicators through 2019, but data for 2021 and 2022 is missing. The national poverty headcount fluctuated slightly, ranging around 19–20% until 2020.
 
