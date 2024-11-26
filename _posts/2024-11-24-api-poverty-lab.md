@@ -1,4 +1,4 @@
----
+pho---
 layout: post
 title: World Bank API Poverty Indicators
 subtitle: Looking at Specific Countries
@@ -16,7 +16,15 @@ Countries: India, Brazil, US, Germany, Argentina, Colombia, Sweden, Italy, Japan
 Years: 2012-2022
 
 ## Steps:
-XX
+   
+https://api.worldbank.org/v2/country?format=json&per_page=300:
+To fetch a complete list of all countries, including their ISO3 codes and names, as a starting point for selecting relevant countries.
+
+https://api.worldbank.org/v2/country/{country_iso3}?format=json:
+To retrieve detailed metadata (e.g., country name) for a specific country using its ISO3 code during runtime.
+
+https://api.worldbank.org/v2/country/{country_iso3}/indicator/{indicator}:
+To fetch poverty-related indicator data for a specific country and year, based on its ISO3 code and the chosen indicator. Applied this to each country and year of choice. For example, produced data on India’s poverty gap in 2020.
 
 ## CSV Data Attributes
 Country: The name of the country.
