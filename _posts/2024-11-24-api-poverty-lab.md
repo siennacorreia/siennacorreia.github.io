@@ -17,23 +17,33 @@ Years: 2012-2022
 
 ## Steps:
    
-https://api.worldbank.org/v2/country?format=json&per_page=300:
+https://api.worldbank.org/v2/country?format=json&per_page=300
+
 To fetch a complete list of all countries, including their ISO3 codes and names, as a starting point for selecting relevant countries.
 
-https://api.worldbank.org/v2/country/{country_iso3}?format=json:
+https://api.worldbank.org/v2/country/{country_iso3}?format=json
+
 To retrieve detailed metadata (e.g., country name) for a specific country using its ISO3 code during runtime.
 
-https://api.worldbank.org/v2/country/{country_iso3}/indicator/{indicator}:
+https://api.worldbank.org/v2/country/{country_iso3}/indicator/{indicator}
+
 To fetch poverty-related indicator data for a specific country and year, based on its ISO3 code and the chosen indicator. Applied this to each country and year of choice. For example, produced data on India’s poverty gap in 2020.
 
 ## CSV Data Attributes
 Country: The name of the country.
+
 country_iso3: The ISO-3 country code (e.g., ARG for Argentina).
+
 Year: The year of the data.
+
 Poverty Gap ($2.15 a day): The average shortfall of income of the population living below $2.15 a day.
+
 Income Share (Lowest 10%): The share of income held by the lowest 10% of the population.
+
 Income Share (Lowest 20%): The share of income held by the lowest 20% of the population.
+
 Poverty Headcount ($2.15 a day): The percentage of the population living below $2.15 a day.
+
 Poverty Headcount (National Poverty Lines): The percentage of the population living below the national poverty line.
 
 ## Selection and Results
