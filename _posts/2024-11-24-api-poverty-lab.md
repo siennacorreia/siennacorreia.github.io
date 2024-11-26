@@ -16,6 +16,8 @@ Countries: India, Brazil, US, Germany, Argentina, Colombia, Sweden, Italy, Japan
 Years: 2012-2022
 
 ## Steps:
+Identifying My Indicator Codes:
+I clicked on different indicators to reveal their unique codes (ex. SI.POV.DDAY for Poverty headcount ratio at $2.15 a day), which I reused directly in my Python code for constructing the API endpoint.
    
 https://api.worldbank.org/v2/country?format=json&per_page=300
 
