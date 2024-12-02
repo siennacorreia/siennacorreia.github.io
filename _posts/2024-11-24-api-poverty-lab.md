@@ -88,24 +88,24 @@ United States: The poverty gap remained stable (~0.8–1.0) with a slight decrea
 ## P-Value Analysis
 I chose to look at 3 different relationships: a highly significant p-value, significant p-value, and not significant p-value
 
-Highly Significant: 
+### Highly Significant: 
 
-### (Independent) Poverty Gap ($2.15 a day) vs. (Dependent) Poverty Headcount ($2.15 a day)
-### p-value = 0.0, slope = 3.7888
+#### (Independent) Poverty Gap ($2.15 a day) vs. (Dependent) Poverty Headcount ($2.15 a day)
+#### p-value = 0.0, slope = 3.7888
 
 The p-value of 0.0 indicates an extremely strong statistical relationship between the poverty gap and the poverty headcount at $2.15 a day. As the gap widens, it shows that not only are more people below the line but that they are further from escaping it, naturally correlating with a higher poverty headcount. A positive slope of 3.7888 suggests that as the poverty gap increases, the proportion of people living below the $2.15 threshold rises substantially.
 
-Significant:
+### Significant:
 
-### (Independent) Poverty Gap ($2.15 a day) vs. (Dependent) Income Share (Lowest 10%)
-### p-value = 0.0239, slope = -0.1948
+#### (Independent) Poverty Gap ($2.15 a day) vs. (Dependent) Income Share (Lowest 10%)
+#### p-value = 0.0239, slope = -0.1948
 
 The p-value of 0.0239 indicates a statistically significant relationship. A negative slope of -0.1948 suggests ain inverse relationship that as the poverty gap widens, the share of income held by the lowest 10% decreases.
 
-Not Significant:
+### Not Significant:
 
-### (Independent) Income Share (Lowest 20%) vs. (Dependent) Poverty Headcount ($2.15 a day)
-### p-value = 0.6824, slope = -0.1021
+#### (Independent) Income Share (Lowest 20%) vs. (Dependent) Poverty Headcount ($2.15 a day)
+#### p-value = 0.6824, slope = -0.1021
 
 The p-value of 0.6824 suggests no statistically significant relationship between the two variables. The slope of -0.1021 implies a weak negative trend, but it is not reliable enough to draw conclusions. While income share and poverty headcount may seem linked, the lack of significance indicates that variations in the income share of the lowest 20% do not consistently correlate with changes in the poverty headcount at $2.15 a day.
 
