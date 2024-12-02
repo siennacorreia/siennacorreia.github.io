@@ -85,6 +85,22 @@ Japan: Sparse data across the decade, especially for 2021 and 2022. Earlier year
 United States: The poverty gap remained stable (~0.8–1.0) with a slight decrease in the poverty headcount in 2021, but missing data for 2022 limits recent analysis.
 
 
+## P-Value Analysis
+I chose to look at 3 different relationships: a highly significant p-value, significant p-value, and not significant p-value
+
+Highly Significant:
+Poverty Gap ($2.15 a day) vs. Poverty Headcount ($2.15 a day)
+p-value = 0.0, slope = 3.7888
+
+Significant:
+Poverty Gap ($2.15 a day) vs. Income Share (Lowest 10%)
+p-value = 0.0239, slope = -0.1948
+
+Not Significant:
+Income Share (Lowest 20%) vs. Poverty Headcount ($2.15 a day)
+p-value = 0.6824, slope = -0.1021
+
+
 ## world_bank_poverty_data.csv
 > Country,country_iso3,Year,Poverty Gap ($2.15 a day),Income Share (Lowest 10%),Income Share (Lowest 20%),Poverty Headcount ($2.15 a day),Poverty Headcount (National Poverty Lines)
 > Argentina,ARG,2012,0.3,1.7,5,0.6,
