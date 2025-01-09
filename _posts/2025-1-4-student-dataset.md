@@ -16,6 +16,13 @@ link: https://www.kaggle.com/datasets/steve1215rogg/student-lifestyle-dataset
 
 ## Dataset Analysis:
 
+### Visualizations of the dataset - Violin Plots 
+
+![Stress Levels vs GPA Violin Plot](/assets/img/stress_vs_gpa.png)
+ 
+![Stress Levels vs Daily Study Hours Violin Plot](/assets/img/stress_vs_study_hours.png)
+
+
 ### Variables Examined
 Stress_Level: Categorical variable with three levels — Low, Moderate, and High.
 GPA: Variable indicating academic performance.
@@ -53,6 +60,13 @@ Physical_Activity_Hours_Per_Day
 > Moderate :
 >  6.969585   :   7.0
 
+#### GPA
+Center: The mean and median GPA indicate a general trend of satisfactory academic performance.
+Variability: GPA shows moderate variability, with a tighter spread in the "Moderate" stress group compared to "Low" and "High".
+
+#### Study Hours Per Day 
+Center: Students generally study for about 5–7 hours daily, with the "High" stress group showing higher averages.
+Variability: Study hours exhibit greater variability in the "High" stress group, suggesting a mix of overstudying and / or avoidance behaviors.
 
 ### Relationships between variables
 GPA vs Stress Level:
@@ -61,11 +75,6 @@ Positive relationship observed: Higher stress levels correlate with higher GPA. 
 Study Hours vs Stress Level:
 Positive relationship: Students in the "High" stress group spend more time studying, suggesting a link between stress and effort.
 
-### Visualizations of the dataset - Violin Plots 
-
-![Stress Levels vs GPA Violin Plot](/assets/img/stress_vs_gpa.png)
- 
-![Stress Levels vs Daily Study Hours Violin Plot](/assets/img/stress_vs_study_hours.png)
 
 ### Limitations of your analysis and the dataset
 Dataset Quality:
