@@ -10,9 +10,10 @@ author: Sienna Correia
 ---
 
 ## Dataset Info:
-1. I worked with the Student Lifestyle Dataset from Kaggle, with data on "Daily Lifestyle and Academic Performance of Students."
+I worked with the Student Lifestyle Dataset from Kaggle, with data on "Daily Lifestyle and Academic Performance of Students."
 link: https://www.kaggle.com/datasets/steve1215rogg/student-lifestyle-dataset 
-2. Upon looking into the dataset, I am most interested in the stress level relatonship to GPA and study hours per day. My initial hopes in analyzing the dataset were to understand the effect that daily study hours and GPA had on stress levels among college students.
+
+Upon looking into the dataset, I am most interested in the stress level relatonship to GPA and study hours per day. My initial hopes in analyzing the dataset were to understand the effect that daily study hours and GPA had on stress levels among college students.
 
 ## Dataset Analysis:
 
@@ -62,10 +63,12 @@ Physical_Activity_Hours_Per_Day
 
 #### GPA
 Center: The mean and median GPA indicate a general trend of satisfactory academic performance.
+
 Variability: GPA shows moderate variability, with a tighter spread in the "Moderate" stress group compared to "Low" and "High".
 
 #### Study Hours Per Day 
 Center: Students generally study for about 5–7 hours daily, with the "High" stress group showing higher averages.
+
 Variability: Study hours exhibit greater variability in the "High" stress group, suggesting a mix of overstudying and / or avoidance behaviors.
 
 ### Relationships between variables
@@ -88,4 +91,14 @@ Categorical Simplification:
 Stress level categorization (Low, Moderate, High) may oversimplify nuanced stress experiences.
 
 ## Conclusions:
-4. What conclusions can you draw about this dataset? What is your supporting evidence?
+Stress and Academic Performance:
+Students with higher stress levels tend to achieve higher GPAs.
+Supporting evidence: Violin plot distributions show a clear trend of increasing GPA with stress.
+
+Stress and Study Effort:
+Higher stress correlates with longer study hours.
+Supporting evidence: "High" stress students spend more time studying, as shown in the violin plot.
+
+Implications:
+While high stress may drive academic performance, prolonged exposure could negatively affect other areas like sleep or mental health.
+A balanced approach to managing stress is crucial for sustained performance and well-being!
