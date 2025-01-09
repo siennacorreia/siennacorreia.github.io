@@ -31,8 +31,7 @@ Physical_Activity_Hours_Per_Day
 
 > #### Mean and Median GPA by Stress Level:
 >  Stress_Level
->
-> mean  median                  
+>  mean  median                  
 >
 > High
 > 3.261973      3.27
@@ -45,8 +44,7 @@ Physical_Activity_Hours_Per_Day
 
 > #### Mean and Median Study Hours by Stress Level:
 >  Stress_Level                  
->
-> mean  median
+>  mean  median
 > 
 > High
 > 8.385034       8.7
