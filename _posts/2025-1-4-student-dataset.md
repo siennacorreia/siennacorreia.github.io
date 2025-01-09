@@ -21,9 +21,9 @@ link: https://www.kaggle.com/datasets/steve1215rogg/student-lifestyle-dataset
      * Relationships between variables
      * Visualizations of the dataset
      * Limitations of your analysis and the dataset
- /assets/img/stress_vs_gpa.png
-
- /assets/img/stress_vs_study_hours.png
+![Stress Levels vs GPA Violin Plot](/assets/img/stress_vs_gpa.png)
+ 
+![Stress Levels vs Daily Study Hours Violin Plot](/assets/img/stress_vs_study_hours.png)
  
 ## Conclusions:
 4. What conclusions can you draw about this dataset? What is your supporting evidence?
