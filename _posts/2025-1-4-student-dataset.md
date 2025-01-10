@@ -19,8 +19,10 @@ Upon looking into the dataset, I am most interested in the stress level relatons
 
 ### Visualizations of the dataset - Violin Plots 
 
+![Study Hours vs GPA Scatterplot](/assets/img/study_hours_vs_gpa.png)
+
 ![Stress Levels vs GPA Violin Plot](/assets/img/stress_vs_gpa.png)
- 
+
 ![Stress Levels vs Daily Study Hours Violin Plot](/assets/img/stress_vs_study_hours.png)
 
 
