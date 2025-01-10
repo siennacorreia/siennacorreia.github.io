@@ -17,7 +17,7 @@ Upon looking into the dataset, I am most interested in the stress level relatons
 
 ## Dataset Analysis:
 
-### Visualizations of the dataset - Violin Plots 
+### Visualizations of the dataset 
 
 ![Study Hours vs GPA Scatterplot](/assets/img/study_hours_vs_gpa.png)
 
@@ -38,8 +38,10 @@ Social_Hours_Per_Day
 Physical_Activity_Hours_Per_Day
 
 ### Distributions of variables 
+> #### Correlation GPA by Study Hours Per Day:
+> corr: 0.7344679806560517
 
-> #### Mean and Median GPA by Stress Level:
+> #### Mean, Median, and Std GPA by Stress Level:
 >  Stress_Level : mean : median : std                
 >
 > High :
@@ -51,7 +53,7 @@ Physical_Activity_Hours_Per_Day
 > Moderate :
 > 3.024837   :   3.02   :   0.220653
 
-> #### Mean and Median Study Hours by Stress Level:
+> #### Mean, Median, and Std Study Hours by Stress Level:
 >  Stress_Level : mean : median : std
 > 
 > High :
@@ -74,8 +76,11 @@ Center: Students generally study for about 5–7 hours daily, with the "High" st
 Variability: Study hours exhibit greater variability in the "High" stress group, suggesting a mix of overstudying and / or avoidance behaviors.
 
 ### Relationships between variables
+GPA vs Study Hours:
+Positive relationship: There is a positive correlation between study hours and GPA, as indicated by the correlation coefficient of 0.734, which suggests a strong positive relationship.
+
 GPA vs Stress Level:
-Positive relationship observed: Higher stress levels correlate with higher GPA. Students in the "High" stress group show improved academic performance, potentially due to increased motivation or effort.
+Positive relationship: Higher stress levels correlate with higher GPA. Students in the "High" stress group show improved academic performance, potentially due to increased motivation or effort.
 
 Study Hours vs Stress Level:
 Positive relationship: Students in the "High" stress group spend more time studying, suggesting a link between stress and effort.
