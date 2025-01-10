@@ -38,28 +38,28 @@ Physical_Activity_Hours_Per_Day
 ### Distributions of variables 
 
 > #### Mean and Median GPA by Stress Level:
->  Stress_Level : mean : median                  
+>  Stress_Level : mean : median : std                
 >
 > High :
-> 3.261973   :   3.27
+> 3.261973   :   3.27   :   0.274960
 >
 > Low :
-> 2.816869   :   2.82
+> 2.816869   :   2.82   :   0.215396
 >
 > Moderate :
-> 3.024837   :   3.02
+> 3.024837   :   3.02   :   0.220653
 
 > #### Mean and Median Study Hours by Stress Level:
->  Stress_Level : mean : median
+>  Stress_Level : mean : median : std
 > 
 > High :
-> 8.385034   :    8.7
+> 8.385034   :    8.7   :    1.238311
 >
 > Low :
-> 5.474411   :    5.5
+> 5.474411   :    5.5   :    0.279753
 >
 > Moderate :
->  6.969585   :   7.0
+>  6.969585   :   7.0   :    0.597576
 
 #### GPA
 Center: The mean and median GPA indicate a general trend of satisfactory academic performance.
