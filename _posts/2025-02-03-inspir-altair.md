@@ -13,12 +13,13 @@ author: Sienna Correia
 
 ![Reddit Women in Songwriting Visualization](/assets/img/original_song.png)
 
-## Recreation of Visualizations:
+## Recreations of Visualizations:
 ![Recreation of Ivy League Women's Soccer Standings 2009-2024 Visualization](/assets/img/soccer_standings.png)
+#### Description:
+#### Interest:
+#### Marks & Channels:
+
 ![Recreation Women in Songwriting Visualization](/assets/img/women_in_songwriting.png)
-
-## CSV Data Attributes
-
-### Results: 
-
-#### Countries with Fluctuating Trends
+#### Description:
+#### Interest:
+#### Marks & Channels:
