@@ -10,13 +10,13 @@ author: Sienna Correia
 ---
 ## Original Visualizations:
 ![Pudding Ivy League Women's Soccer Standings 2009-2024 Visualization](/assets/img/original_standings.png)
-<img src="original_standings.png" width="300" height="200">
 
 ![Reddit Women in Songwriting Visualization](/assets/img/original_song.png)
-<img src="original_song.png" width="200" height="400">
 
 ## Recreations of Visualizations:
-![Recreation of Ivy League Women's Soccer Standings 2009-2024 Visualization](/assets/img/soccer_standings.png)
+
+### Recreation of the Ivy League Women's Soccer Standings 2009-2024 Visualization
+![Recreation of the Ivy League Women's Soccer Standings 2009-2024 Visualization](/assets/img/soccer_standings.png)
 #### Description:
 This line chart with labels and points represents the rankings of Ivy League women’s soccer teams from 2009 to 2024. Each colored line represents a team, with its placement on the y-axis indicating its rank for that year. The y-axis is reversed so that 1st place appears at the top, and 8th place at the bottom. A gap is left for 2020, when the season was disrupted.
 
@@ -57,7 +57,8 @@ Channels:
 #### Challenges:
 I did not face many larger challenges in recreating the original Ivy League Women's Soccer Standings visualization. However, there are slight minor inaccuracies in my replication compared to the original visualization, including spacing and the location of the legend. 
 
-![Recreation Women in Songwriting Visualization](/assets/img/women_in_songwriting.png)
+### Recreation of the Women in Songwriting Visualization
+![Recreation of the Women in Songwriting Visualization](/assets/img/women_in_songwriting.png)
 #### Description:
 This stacked bar chart visualizes the gender distribution of songwriters for top 5 Billboard hits over time (1958-2022).
 Each bar represents a year and is stacked by gender categories:
