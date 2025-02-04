@@ -24,6 +24,7 @@ Marks:
 - line (used to connect rankings for each team over time)
 - circle (used at each rank to highlight positions)
 - text (used to display ranking numbers directly on points)
+
 Channels:
 - x-axis → Year (ordinal scale)
 - y-axis → Rank (quantitative scale, reversed so 1 is at the top)
