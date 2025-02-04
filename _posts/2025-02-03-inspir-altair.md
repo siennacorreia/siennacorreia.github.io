@@ -8,20 +8,17 @@ share-img: /assets/img/path.jpg
 tags: 
 author: Sienna Correia
 ---
+## Original Visualizations:
+![Pudding Ivy League Women's Soccer Standings 2009-2024 Visualization](/assets/img/original_standings.png)
 
-![Ivy League Women's Soccer Standings 2009-2024](/assets/img/soccer_standings.png)
-![Women in Songwriting](/assets/img/women_in_songwriting.png)
+![Reddit Women in Songwriting Visualization](/assets/img/original_song.png)
 
-## Selected Countries and Years:
-
-## Steps:
+## Recreation of Visualizations:
+![Recreation of Ivy League Women's Soccer Standings 2009-2024 Visualization](/assets/img/soccer_standings.png)
+![Recreation Women in Songwriting Visualization](/assets/img/women_in_songwriting.png)
 
 ## CSV Data Attributes
 
-## Selection and Results
-
 ### Results: 
-
-#### Countries with Stable Low Poverty
 
 #### Countries with Fluctuating Trends
