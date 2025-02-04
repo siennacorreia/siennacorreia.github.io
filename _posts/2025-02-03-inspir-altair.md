@@ -31,7 +31,7 @@ Channels:
 - color → Team (nominal scale)
 - text → Shows ranking values at each point
 #### Challenges:
-
+I did not face a lot of larger challenges in recreating the original data visualization. There are slight minor inaccuracies in my replication compared to the original data visualization, including spacing and the locatino of the key. 
 
 ![Recreation Women in Songwriting Visualization](/assets/img/women_in_songwriting.png)
 #### Description:
