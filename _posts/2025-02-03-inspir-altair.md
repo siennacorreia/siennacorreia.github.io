@@ -19,17 +19,16 @@ author: Sienna Correia
 
 <head>
   <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
-  <script src="https://cdn.jsdelivr.net/npm/vega@[4]"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega-lite@[5]"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
   <!-- Import vega-embed -->
-  <script src="https://cdn.jsdelivr.net/npm/vega-embed@[6]"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
 </head>
 <body>
 
 <div id="vis"></div>
-
 <script type="text/javascript">
-  var spec = "[https://raw.githubusercontent.com/vega/vega/master/docs/examples/bar-chart.vg.json](https://raw.githubusercontent.com/siennacorreia/siennacorreia.github.io/refs/heads/master/assets/women_in_songwriting.json)";
+  var spec = "https://raw.githubusercontent.com/siennacorreia/siennacorreia.github.io/refs/heads/master/assets/women_in_songwriting.json";
   vegaEmbed('#vis', spec).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
@@ -79,7 +78,9 @@ Channels:
 I did not face many larger challenges in recreating the original Ivy League Women's Soccer Standings visualization. However, there are slight minor inaccuracies in my replication compared to the original visualization, including spacing and outlining the numbers in white. 
 
 ### Recreation of the Women in Songwriting Visualization
-![Recreation of the Women in Songwriting Visualization](/assets/img/women_in_songwriting.png)
+
+https://raw.githubusercontent.com/siennacorreia/siennacorreia.github.io/refs/heads/master/assets/women_in_songwriting.json
+
 #### Description:
 This stacked bar chart visualizes the gender distribution of songwriters for top 5 Billboard hits over time (1958-2022).
 Each bar represents a year and is stacked by gender categories:
