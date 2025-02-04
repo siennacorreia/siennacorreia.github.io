@@ -28,10 +28,9 @@ This line chart with labels and points represents the rankings of Ivy League wom
 >     )
 
 #### Interest:
-It clearly visualizes trends in team performance over time, showing how some teams improve while others struggle. The visual complexity of the crisscrossing lines makes it engaging while still being readable. I enjoyed using the tooltip feature, so that when the user hovers over a point the 'tooltip' displays year, team, and place ranked for that year. I chose this visualization because it effectively communicates historical patterns in sports rankings, allowing for easy comparison between teams.
+It clearly visualizes trends in team performance over time, showing how some teams improve while others struggle. The visual complexity of the crisscrossing lines makes it engaging while still being readable. I enjoyed using the tooltip feature, so that when the user hovers over a point the tooltip displays year, team, and place ranked for that year. I chose this visualization because it effectively communicates historical patterns in sports rankings, allowing for easy comparison between teams.
 
 ##### The code used to organize each team by various colors:
-# team colors
 >     team_colors = {
 >         'Harvard': '#007bff', 'Dartmouth': '#dc3545', 'Brown': '#ffc107',
 >         'Yale': '#28a745', 'Cornell': '#000000', 'Princeton': '#17a2b8',
