@@ -27,7 +27,7 @@ author: Sienna Correia
 
 <div id="vis"></div>
 <script type="text/javascript">
-  var spec = "https://raw.githubusercontent.com/siennacorreia/siennacorreia.github.io/refs/heads/master/assets/women_in_songwriting.json";
+  var spec = "https://raw.githubusercontent.com/siennacorreia/siennacorreia.github.io/refs/heads/master/assets/soccer_standings.json";
   vegaEmbed('#vis', spec).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
