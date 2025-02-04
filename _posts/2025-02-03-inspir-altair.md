@@ -46,10 +46,15 @@ The total height of each bar represents the total songwriting credits for that y
 
 ##### The code used to generate stacked bar chart:
 > chart = alt.Chart(merged_data).mark_bar(size=4).encode(
+> 
 >     x=alt.X('year:O', title="Year", axis=alt.Axis(labelAngle=-45, values=[y for y in range(1958, 2023, 5)])), 
->     y=alt.Y('count:Q', title="Total Songwriters", stack=True), 
->     color=alt.Color('gender:N', scale=color_scale, legend=alt.Legend(title="Songwriter Representation", orient='bottom')),
->     tooltip=['year', 'gender', 'count'] 
+>
+>   y=alt.Y('count:Q', title="Total Songwriters", stack=True), 
+>
+>   color=alt.Color('gender:N', scale=color_scale, legend=alt.Legend(title="Songwriter Representation", orient='bottom')),
+>
+> tooltip=['year', 'gender', 'count'] 
+>
 > ).properties(
 >     width=900,
 >     height=500
@@ -60,16 +65,24 @@ It highlights gender disparities in the music industry, showing how male songwri
 
 ##### The code used to add annoations to the right of the stacked bar chart: 
 > annotations = alt.Chart(pd.DataFrame({
->     'count': [3, 192, 50], 
->     'Text': ["Women had 33 songwriting credits for top 5 hits in 2022.",
+>
+>   'count': [3, 192, 50], 
+>
+>   'Text': ["Women had 33 songwriting credits for top 5 hits in 2022.",
 >              "Men had 192 songwriting credits for top 5 hits in 2022.",
 >              "3 songwriting credits went to non-binary writers in 2022."]
+>
 > })).mark_text(
->     align='left', dx=10, dy=0, color='white', fontSize=12
+>
+>   align='left', dx=10, dy=0, color='white', fontSize=12
+>
 > ).encode(
->     x=alt.value(900),  # Text on the right
->     y='count:Q',  
->     text='Text'
+>
+>   x=alt.value(900),  # Text on the right
+>
+>   y='count:Q',
+>
+>   text='Text'
 > )
 
 #### Marks & Channels:
