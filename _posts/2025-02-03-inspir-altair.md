@@ -30,8 +30,9 @@ Channels:
 - y-axis → Rank (quantitative scale, reversed so 1 is at the top)
 - color → Team (nominal scale)
 - text → Shows ranking values at each point
+
 #### Challenges:
-I did not face a lot of larger challenges in recreating the original data visualization. There are slight minor inaccuracies in my replication compared to the original data visualization, including spacing and the locatino of the key. 
+I did not face many larger challenges in recreating the original Ivy League Women's Soccer Standings visualization. However, there are slight minor inaccuracies in my replication compared to the original visualization, including spacing and the location of the legend. 
 
 ![Recreation Women in Songwriting Visualization](/assets/img/women_in_songwriting.png)
 #### Description:
@@ -55,6 +56,7 @@ Channels:
 - y-axis → Total songwriter count (quantitative scale)
 - color → Gender category (nominal scale)
 - text → Highlights key insights (annotations on the chart)
+
 #### Challenges:
 In my replication, women's contributions (yellow bars) appear at the bottom, while in the original, they are at the top. This was a challeneged I faced in replicating the original, as the y-axis is total songwriters in each group. This made it so the number of songwriters per group aligned with its location in the bar chart, placing men at the top instead of women.
 Another challenge I faced recreating the aspect of the original where each bar is composed of tiny horizontal segments, where each segment represents one song in that category. My version stacks entire gender groups together, rather than individual songs being separate segments.
