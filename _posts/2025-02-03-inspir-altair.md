@@ -82,7 +82,7 @@ The total height of each bar represents the total songwriting credits for that y
 >     )
 
 #### Interest:
-It highlights gender disparities in the music industry, showing how male songwriters have historically dominated. The annotations effectively tell a story, drawing attention to specific historical moments. The use of color makes the patterns clear, while the stacked bars allow us to compare trends over time. I enjoyed using the tooltip feature, so that when the user hovers over a bar the tooltip displays year, gender category, and count of songs for that year. I chose this visualization because it presents an important social issue in a way that is both visually compelling and informative.
+It highlights gender disparities in the music industry, showing how male songwriters have historically dominated. The annotations effectively tell a story, drawing attention to specific historical moments. The use of color makes the patterns clear, while the stacked bars allow us to compare trends over time. I enjoyed using the `tooltip` feature, so that when the user hovers over a bar the tooltip displays year, gender category, and count of songs for that year. I chose this visualization because it presents an important social issue in a way that is both visually compelling and informative.
 
 ##### The code used to add annoations to the right of the stacked bar chart: 
 >     annotations = alt.Chart(pd.DataFrame({
