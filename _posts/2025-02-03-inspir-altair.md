@@ -30,8 +30,31 @@ Channels:
 - y-axis → Rank (quantitative scale, reversed so 1 is at the top)
 - color → Team (nominal scale)
 - text → Shows ranking values at each point
+#### Challenges:
+
 
 ![Recreation Women in Songwriting Visualization](/assets/img/women_in_songwriting.png)
 #### Description:
+This stacked bar chart visualizes the gender distribution of songwriters for top 5 Billboard hits over time (1958-2022).
+Each bar represents a year and is stacked by gender categories:
+Purple: Male songwriters
+Yellow: Female songwriters
+Red: Non-binary songwriters
+Gray: Unknown gender
+The total height of each bar represents the total songwriting credits for that year.
+
 #### Interest:
+It highlights gender disparities in the music industry, showing how male songwriters have historically dominated. The annotations effectively tell a story, drawing attention to specific historical moments. The use of color makes the patterns clear, while the stacked bars allow us to compare trends over time. I chose this visualization because it presents an important social issue in a way that is both visually compelling and informative.
 #### Marks & Channels:
+Marks:
+- bar (used for stacked bars representing songwriter counts)
+- text (used for annotations and labels)
+
+Channels:
+- x-axis → Year (ordinal scale)
+- y-axis → Total songwriter count (quantitative scale)
+- color → Gender category (nominal scale)
+- text → Highlights key insights (annotations on the chart)
+#### Challenges:
+In my replication, women's contributions (yellow bars) appear at the bottom, while in the original, they are at the top. This was a challeneged I faced in replicating the original, as the y-axis is total songwriters in each group. This made it so the number of songwriters per group aligned with its location in the bar chart, placing men at the top instead of women.
+Another challenge I faced recreating the aspect of the original where each bar is composed of tiny horizontal segments, where each segment represents one song in that category. My version stacks entire gender groups together, rather than individual songs being separate segments.
