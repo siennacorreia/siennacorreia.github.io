@@ -10,8 +10,10 @@ author: Sienna Correia
 ---
 ## Original Visualizations:
 ![Pudding Ivy League Women's Soccer Standings 2009-2024 Visualization](/assets/img/original_standings.png)
+<img src="original_standings.png" width="300" height="200">
 
 ![Reddit Women in Songwriting Visualization](/assets/img/original_song.png)
+<img src="original_song.png" width="200" height="400">
 
 ## Recreations of Visualizations:
 ![Recreation of Ivy League Women's Soccer Standings 2009-2024 Visualization](/assets/img/soccer_standings.png)
