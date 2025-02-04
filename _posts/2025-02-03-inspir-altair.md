@@ -3,7 +3,7 @@ layout: post
 title: Inspir Altair Cool Visualizations!
 subtitle: Women in Songwriting & Ivy League Women's Soccer Standings
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/soccer_standings.png  /assets/img/women_in_songwriting.png
+thumbnail-img: /assets/img/visualizations.png
 share-img: /assets/img/path.jpg
 tags: 
 author: Sienna Correia
