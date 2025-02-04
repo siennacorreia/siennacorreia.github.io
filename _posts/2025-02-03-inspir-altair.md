@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inspir Altair: Cool Visualizations!
+title: Inspir Altair Cool Visualizations!
 subtitle: Women in Songwriting & Ivy League Women's Soccer Standings
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/world_bank.png
