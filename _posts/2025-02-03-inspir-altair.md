@@ -17,6 +17,7 @@ author: Sienna Correia
 
 ### Recreation of the Ivy League Women's Soccer Standings 2009-2024 Visualization
 
+
 <head>
   <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
   <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
@@ -24,7 +25,6 @@ author: Sienna Correia
   <!-- Import vega-embed -->
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
 </head>
-<body>
 
 <div id="vis"></div>
 <script type="text/javascript">
@@ -33,7 +33,6 @@ author: Sienna Correia
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>
-</body>
 
 
 #### Description:
