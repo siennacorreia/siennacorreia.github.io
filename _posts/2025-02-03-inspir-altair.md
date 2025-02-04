@@ -9,7 +9,8 @@ tags:
 author: Sienna Correia
 ---
 
-![world bank](/assets/img/world_bank.png)
+![Ivy League Women's Soccer Standings 2009-2024](/assets/img/soccer_standings.png)
+![Women in Songwriting](/assets/img/women_in_songwriting.png)
 
 ## Selected Countries and Years:
 
