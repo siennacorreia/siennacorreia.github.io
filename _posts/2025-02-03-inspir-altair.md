@@ -13,6 +13,7 @@ author: Sienna Correia
 
 ![Reddit Women in Songwriting Visualization](/assets/img/original_song.png)
 
+
 ## Recreations of Visualizations:
 
 ### Recreation of the Ivy League Women's Soccer Standings 2009-2024 Visualization
