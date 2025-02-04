@@ -56,7 +56,7 @@ Channels:
 - text → Shows ranking values at each point
 
 #### Challenges:
-I did not face many larger challenges in recreating the original Ivy League Women's Soccer Standings visualization. However, there are slight minor inaccuracies in my replication compared to the original visualization, including spacing and the location of the legend. 
+I did not face many larger challenges in recreating the original Ivy League Women's Soccer Standings visualization. However, there are slight minor inaccuracies in my replication compared to the original visualization, including spacing and outlining the numbers in white. 
 
 ### Recreation of the Women in Songwriting Visualization
 ![Recreation of the Women in Songwriting Visualization](/assets/img/women_in_songwriting.png)
