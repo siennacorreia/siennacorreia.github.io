@@ -16,7 +16,6 @@ author: Sienna Correia
 ## Recreations of Visualizations:
 
 ### Recreation of the Ivy League Women's Soccer Standings 2009-2024 Visualization
-![Recreation of the Ivy League Women's Soccer Standings 2009-2024 Visualization](/assets/img/soccer_standings.png)
 
 <head>
   <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
