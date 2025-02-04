@@ -85,10 +85,10 @@ I did not face many larger challenges in recreating the original Ivy League Wome
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
 </head>
 
-<div id="vis"></div>
+<div id="vis2"></div>
 <script type="text/javascript">
   var spec = "https://raw.githubusercontent.com/siennacorreia/siennacorreia.github.io/refs/heads/master/assets/women_in_songwriting.json";
-  vegaEmbed('#vis', spec).then(function(result) {
+  vegaEmbed('#vis2', spec).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>
