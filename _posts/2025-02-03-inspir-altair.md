@@ -20,14 +20,15 @@ author: Sienna Correia
 #### Description:
 This line chart with labels and points represents the rankings of Ivy League women’s soccer teams from 2009 to 2024. Each colored line represents a team, with its placement on the y-axis indicating its rank for that year. The y-axis is reversed so that 1st place appears at the top, and 8th place at the bottom. A gap is left for 2020, when the season was disrupted.
 
-##### The code used to generate the line chart:
+##### The code used to generate the line chart & legend:
 >     lines = alt.Chart(df_long).mark_line(size=2).encode(
 >         x=alt.X('year:O', title="Year", axis=alt.Axis(labelAngle=-45)),
 >         y=alt.Y('rank:Q', title="Place", axis=alt.Axis(labelAngle=0, values=list(range(1, 9)))), 
 > 
->         color=alt.Color('team:N', scale=color_scale, legend=alt.Legend(title="Teams")),
->         detail='team:N'
->     )
+>         color=alt.Color('team:N', 
+>         scale=color_scale, 
+>         legend=alt.Legend(title="Teams", orient="left")  
+>    )
 
 #### Interest:
 It clearly visualizes trends in team performance over time, showing how some teams improve while others struggle. The visual complexity of the crisscrossing lines makes it engaging while still being readable. I enjoyed using the `tooltip` feature, so that when the user hovers over a point the tooltip displays year, team, and place ranked for that year. I chose this visualization because it effectively communicates historical patterns in sports rankings, allowing for easy comparison between teams.
