@@ -64,26 +64,26 @@ The total height of each bar represents the total songwriting credits for that y
 It highlights gender disparities in the music industry, showing how male songwriters have historically dominated. The annotations effectively tell a story, drawing attention to specific historical moments. The use of color makes the patterns clear, while the stacked bars allow us to compare trends over time. I chose this visualization because it presents an important social issue in a way that is both visually compelling and informative.
 
 ##### The code used to add annoations to the right of the stacked bar chart: 
-> annotations = alt.Chart(pd.DataFrame({
+>   annotations = alt.Chart(pd.DataFrame({
 >
->   'count': [3, 192, 50], 
+>     'count': [3, 192, 50], 
 >
->   'Text': ["Women had 33 songwriting credits for top 5 hits in 2022.",
+>     'Text': ["Women had 33 songwriting credits for top 5 hits in 2022.",
 >              "Men had 192 songwriting credits for top 5 hits in 2022.",
 >              "3 songwriting credits went to non-binary writers in 2022."]
 >
-> })).mark_text(
+>   })).mark_text(
 >
->   align='left', dx=10, dy=0, color='white', fontSize=12
+>     align='left', dx=10, dy=0, color='white', fontSize=12
 >
-> ).encode(
+>   ).encode(
 >
->   x=alt.value(900),  # Text on the right
+>     x=alt.value(900),  # Text on the right
 >
->   y='count:Q',
+>     y='count:Q',
 >
->   text='Text'
-> )
+>     text='Text'
+>   )
 
 #### Marks & Channels:
 Marks:
