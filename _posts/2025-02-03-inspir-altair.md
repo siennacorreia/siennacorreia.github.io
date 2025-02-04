@@ -45,20 +45,20 @@ Gray: Unknown gender
 The total height of each bar represents the total songwriting credits for that year.
 
 ##### The code used to generate stacked bar chart:
->   chart = alt.Chart(merged_data).mark_bar(size=4).encode(
+>     chart = alt.Chart(merged_data).mark_bar(size=4).encode(
 > 
->     x=alt.X('year:O', title="Year", axis=alt.Axis(labelAngle=-45, values=[y for y in range(1958, 2023, 5)])), 
+>       x=alt.X('year:O', title="Year", axis=alt.Axis(labelAngle=-45, values=[y for y in range(1958, 2023, 5)])), 
 >
->     y=alt.Y('count:Q', title="Total Songwriters", stack=True), 
+>       y=alt.Y('count:Q', title="Total Songwriters", stack=True), 
 >
->     color=alt.Color('gender:N', scale=color_scale, legend=alt.Legend(title="Songwriter Representation", orient='bottom')),
+>       color=alt.Color('gender:N', scale=color_scale, legend=alt.Legend(title="Songwriter Representation", orient='bottom')),
 >
->     tooltip=['year', 'gender', 'count'] 
+>       tooltip=['year', 'gender', 'count'] 
 >
->   ).properties(
->       width=900,
->       height=500
->   )
+>     ).properties(
+>         width=900,
+>         height=500
+>     )
 
 #### Interest:
 It highlights gender disparities in the music industry, showing how male songwriters have historically dominated. The annotations effectively tell a story, drawing attention to specific historical moments. The use of color makes the patterns clear, while the stacked bars allow us to compare trends over time. I chose this visualization because it presents an important social issue in a way that is both visually compelling and informative.
