@@ -67,10 +67,10 @@ I initially found the number of incarcerated individuals by Race during 1978 to 
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
 </head>
 
-<div id="vis3"></div>
+<div id="vis4"></div>
 <script type="text/javascript">
   var spec = "https://raw.githubusercontent.com/siennacorreia/siennacorreia.github.io/refs/heads/master/assets/assets/US Map Visualization: Predicted Jail Outcomes Black vs White (Children Born 1978–1983, Parents at 25th Income Percentile).json";
-  vegaEmbed('#vis3', spec).then(function(result) {
+  vegaEmbed('#vis4', spec).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>
