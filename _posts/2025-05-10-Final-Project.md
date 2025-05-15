@@ -58,6 +58,23 @@ I initially found the number of incarcerated individuals by Race during 1978 to 
   }).catch(console.error);
 </script>
 
+### US Map Visualization: Predicted Jail Outcomes Black vs White (Children Born 1978–1983, Parents at 25th Income Percentile)
+<head>
+  <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <!-- Import vega-embed -->
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+
+<div id="vis3"></div>
+<script type="text/javascript">
+  var spec = "https://raw.githubusercontent.com/siennacorreia/siennacorreia.github.io/refs/heads/master/assets/Predicted US Map Visualization: Predicted Jail Outcomes Black vs White (Children Born 1978–1983, Parents at 25th Income Percentile).json";
+  vegaEmbed('#vis3', spec).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+</script>
+
 # Discussion:
 
 
