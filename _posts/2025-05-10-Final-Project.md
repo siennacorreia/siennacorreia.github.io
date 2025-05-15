@@ -9,9 +9,10 @@ tags:
 author: Sienna Correia
 ---
 
-## Tasks:
-### Recreation of the Ivy League Women's Soccer Standings 2009-2024 Visualization
+# Introduction
 
+# Data
+### Percent of Racial Group Incarcerated (1978 vs 2011)
 <head>
   <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
   <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
@@ -27,3 +28,12 @@ author: Sienna Correia
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>
+
+
+# Discussion
+
+
+# Still Need to Do...
+- Clearly align my definition of mobility barriers
+- make the simulation insteractive in a way on the web
+- make this post more fleshed out to show all steps of the process! ... Deciding on topic, research, finding csvs and other data, cleaning the data, making all graphs, making simulation, challenges along the way, how I would have furthered my work if more time
