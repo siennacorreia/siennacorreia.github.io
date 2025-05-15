@@ -17,6 +17,8 @@ Hypothesis: The economic and educational barriers to mobility are higher for Bla
 # Data:
 
 I initially found the number of incarcerated individuals by Race during 1978 to 2011. 
+
+### Incarceration Counts Over Time by Race (1978–2011) 
 ![Incarceration Counts Over Time by Race (1978–2011) Visualization](/assets/img/Incarceration Counts Over Time by Race (1978–2011).png)
 
 ### Percent of Racial Group Incarcerated (1978 vs 2011)
@@ -36,6 +38,8 @@ I initially found the number of incarcerated individuals by Race during 1978 to 
   }).catch(console.error);
 </script>
 
+### Poverty Rate Over Time by Race (Black vs. White) (2022-2023)
+![Poverty Rate Over Time by Race (Black vs. White) (2022-2023) Visualization](/assets/img/Poverty Rate Over Time by Race (Black vs. White).png)
 
 # Discussion:
 
