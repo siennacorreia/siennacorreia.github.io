@@ -9,10 +9,16 @@ tags:
 author: Sienna Correia
 ---
 
-# Introduction
+# Introduction:
+As my final project I decided to research the mobility barriers for Black Americans, especially focused on incarceration and then also economic disparities including education, employment, and wage. In my project, I sought to narrow in on and explore the inequality between Black and White American counterparts. 
 
-# Data
+Hypothesis: The economic and educational barriers to mobility are higher for Black American children versus their White counterparts and persists even at higher income levels. 
+
+# Data:
+
+I initially found the number of incarcerated individuals by Race during 1978 to 2011. 
 ![Incarceration Counts Over Time by Race (1978–2011) Visualization](/assets/img/Incarceration Counts Over Time by Race (1978–2011).png)
+
 ### Percent of Racial Group Incarcerated (1978 vs 2011)
 <head>
   <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
@@ -31,7 +37,7 @@ author: Sienna Correia
 </script>
 
 
-# Discussion
+# Discussion:
 
 
 # Still Need to Do...
