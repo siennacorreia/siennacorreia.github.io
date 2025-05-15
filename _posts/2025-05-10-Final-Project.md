@@ -16,7 +16,8 @@ Hypothesis: The economic and educational barriers to mobility are higher for Bla
 
 # Data:
 
-I initially found the number of incarcerated individuals by Race during 1978 to 2011. 
+I initially found the number of incarcerated individuals by Race during 1978 to 2011. I then also compared that trend to the poverty of White vs Black individuals. 
+I then looked at predicted incarceration for Black versus White children born from 1978–1983 with parents at 25th Income Percentile.
 
 ### Incarceration Counts Over Time by Race (1978–2011) 
 ![Incarceration Counts Over Time by Race (1978–2011) Visualization](/assets/img/Incarceration Counts Over Time by Race (1978–2011).png)
@@ -81,6 +82,7 @@ I initially found the number of incarcerated individuals by Race during 1978 to 
 
 
 # Still Need to Do...
+- Add all of my graphs that show the data for the education% , wage, jail %, and employment % that was used for the simulation
 - Clearly align my definition of mobility barriers
 - make the simulation insteractive in a way on the web
 - make this post more fleshed out to show all steps of the process! ... Deciding on topic, research, finding csvs and other data, cleaning the data, making all graphs, making simulation, challenges along the way, how I would have furthered my work if more time
