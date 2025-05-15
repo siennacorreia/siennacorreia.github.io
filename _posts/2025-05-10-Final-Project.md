@@ -12,6 +12,7 @@ author: Sienna Correia
 # Introduction
 
 # Data
+![Incarceration Counts Over Time by Race (1978–2011) Visualization](/assets/img/Incarceration Counts Over Time by Race (1978–2011).png)
 ### Percent of Racial Group Incarcerated (1978 vs 2011)
 <head>
   <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
