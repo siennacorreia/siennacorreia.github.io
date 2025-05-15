@@ -41,6 +41,23 @@ I initially found the number of incarcerated individuals by Race during 1978 to 
 ### Poverty Rate Over Time by Race (Black vs. White) (2022-2023)
 ![Poverty Rate Over Time by Race (Black vs. White) (2022-2023) Visualization](/assets/img/Poverty Rate Over Time by Race (Black vs. White).png)
 
+### Predicted Jail Outcomes Black vs White by State (Children Born 1978–1983, Parents at 25th Income Percentile)
+<head>
+  <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <!-- Import vega-embed -->
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+
+<div id="vis"></div>
+<script type="text/javascript">
+  var spec = "https://raw.githubusercontent.com/siennacorreia/siennacorreia.github.io/refs/heads/master/assets/Predicted Jail Outcomes by Race and State (Children Born 1978–1983, Parents at 25th Income Percentile) (Alphabetical).json";
+  vegaEmbed('#vis', spec).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+</script>
+
 # Discussion:
 
 
