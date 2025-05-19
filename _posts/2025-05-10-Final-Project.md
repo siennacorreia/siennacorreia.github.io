@@ -76,7 +76,7 @@ I then looked at predicted incarceration for Black versus White children born fr
   }).catch(console.error);
 </script>
 
-# Simulation
+## Simulation:
 <head>
   <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
   <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
