@@ -76,6 +76,9 @@ I then looked at predicted incarceration for Black versus White children born fr
   }).catch(console.error);
 </script>
 
+### 4 Graphs: Wage Rank, Employment %, College %, Incarceration %  
+![4 Graphs on wage rank, employment %, college %, and incarceration %](/assets/img/Combined_Graphs.png)
+
 ## Simulation:
 <head>
   <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
