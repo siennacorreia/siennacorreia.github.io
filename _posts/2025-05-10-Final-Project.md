@@ -10,8 +10,8 @@ author: Sienna Correia
 ---
 
 # Introduction:
-For my final project, I decided to investigate the barriers to upward mobility for Black Americans, with a particular focus on incarceration and related economic disparities in education, employment, and income, I was inspired by my legal history research paper on the 1960s War on Poverty and its unintended role in fueling incarceration. That research led me to wonder: How have these long-tern systems continued to shape opportunities for the next generation? 
-To ground this inquiry in data, I explored multiple sources and learned how to visualize patterns across gender, race, and income level. My goal was to uncover how mobility outcomes differ for Black and White children, especially those from low-income families. This led me to my hypothesis!
+  For my final project, I decided to investigate the barriers to upward mobility for Black Americans, with a particular focus on incarceration and related economic disparities in education, employment, and income, I was inspired by my legal history research paper on the 1960s War on Poverty and its unintended role in fueling incarceration. That research led me to wonder: How have these long-tern systems continued to shape opportunities for the next generation? 
+  To ground this inquiry in data, I explored multiple sources and learned how to visualize patterns across gender, race, and income level. My goal was to uncover how mobility outcomes differ for Black and White children, especially those from low-income families. This led me to my hypothesis!
 Hypothesis: Black American children face greater barriers to both economic and educational mobility than their White peers, even when starting at similar parental income levels. These barriers—measured by differences in incarceration risk, college completion rates, employment at age 30, and relative wage rank—persist across the income distribution and are especially pronounced at lower and middle percentiles. 
 
 # Data:
@@ -130,4 +130,4 @@ Key Takeaways:
 
 # Discussion:
 This project confirmed that racial disparities in mobility are persistent and systemic. Even when controlling for income, Black Americans, especially men, face elevated risks of incarceration and diminished access to college, stable employment, and high-earning jobs.
-Challenges that I faced during this process were finding reliable CSV data and merging datasets with differing formats, parsing long variable names into usable inputs for code visualization, and designing intuitive visualizations to tell a clear story. If I had more time, I would have furthered my project by researching historical context on why certain states have increased incarceration. Additionally, I would have expanded the simulation to include other races and maybe add explanations for each outcome.
+  Challenges that I faced during this process were finding reliable CSV data and merging datasets with differing formats, parsing long variable names into usable inputs for code visualization, and designing intuitive visualizations to tell a clear story. If I had more time, I would have furthered my project by researching historical context on why certain states have increased incarceration. Additionally, I would have expanded the simulation to include other races and maybe add explanations for each outcome.
