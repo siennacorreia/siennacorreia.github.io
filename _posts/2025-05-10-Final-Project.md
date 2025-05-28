@@ -96,6 +96,9 @@ I then looked at predicted incarceration for Black versus White children born fr
   }).catch(console.error);
 </script>
 
+### User Input Simulation Outcome example
+![1 outcome for the user input simulation](/assets/img/user_input.png)
+
 # Discussion:
 
 
