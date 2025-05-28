@@ -18,7 +18,7 @@ Hypothesis: Black American children face greater barriers to both economic and e
 # Data:
 
 #### 1. Incarceration Over Time
-Initially, I explored incarceration countries by race from 1978 to 2011 using data from the Inter-university Consortium for Political and Social Research (ICPSR), part of the University of Michigan. However, I realized raw numbers were misleading due to differences in population sizes between racial groups. I then calculated percent of each racial group incarcerated, using population data from USAFacts, which aggregates government sources. 
+Initially, I explored incarceration counts by race from 1978 to 2011 using data from the Inter-university Consortium for Political and Social Research (ICPSR), part of the University of Michigan. However, I realized raw numbers were misleading due to differences in population sizes between racial groups. I then calculated percent of each racial group incarcerated, using population data from USAFacts, which aggregates government sources. 
 
 ### Incarceration Counts Over Time by Race (1978–2011) 
 ![Incarceration Counts Over Time by Race (1978–2011) Visualization](/assets/img/Incarceration Counts Over Time by Race (1978–2011).png)
