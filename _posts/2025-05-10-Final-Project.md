@@ -59,6 +59,7 @@ Notable Findings:
 - Lowest White incarceration rate: Rhode Island (0.2%)
 
 Potential Errors: 
+
 Predicted estimates: The incarceration rates are predicted outcomes based on statistical models using Census and ACS data for children born between 1978–1983 with parents at the 25th income percentile. These predictions, based on demographic and economic characteristics by Census tract, include privacy preserving noise and model assumptions rather than direct incarceration counts. 
 
 Small population size effect: States like Hawaii and Nebraska have relatively small Black populations, which can distort percentage-based statistics and lead to unusually high predicted rates due to limited sample sizes.
