@@ -50,10 +50,6 @@ To further explore economic disparity, I compared the recent poverty rates for B
 #### 3. Predicted Jail Outcomes by State
 I then examined predicted incarceration outcomes for children born between 1978 and 1983 whose parents were at the 25th percentile of national income. These predictions are based on census data and statistical modeling, incorporating privacy-protected estimates. 
 
-Potential Errors: 
-Predicted estimates: The incarceration rates are predicted outcomes based on statistical models using Census and ACS data for children born between 1978–1983 with parents at the 25th income percentile. These predictions, based on demographic and economic characteristics by Census tract, include privacy preserving noise and model assumptions rather than direct incarceration counts. 
-Small population size effect: States like Hawaii and Nebraska have relatively small Black populations, which can distort percentage-based statistics and lead to unusually high predicted rates due to limited sample sizes.
-
 Notable Findings:
 - Highest combined Black/White incarceration rate: Hawaii (12.5%)
 - Lowest combined rate: Rhode Island (1.8%)
@@ -61,6 +57,11 @@ Notable Findings:
 - Lowest Black incarceration rate: Rhode Island (1.6%)
 - Highest White incarceration rate: Hawaii (2.5%)
 - Lowest White incarceration rate: Rhode Island (0.2%)
+
+Potential Errors: 
+Predicted estimates: The incarceration rates are predicted outcomes based on statistical models using Census and ACS data for children born between 1978–1983 with parents at the 25th income percentile. These predictions, based on demographic and economic characteristics by Census tract, include privacy preserving noise and model assumptions rather than direct incarceration counts. 
+
+Small population size effect: States like Hawaii and Nebraska have relatively small Black populations, which can distort percentage-based statistics and lead to unusually high predicted rates due to limited sample sizes.
 
 ### Predicted Jail Outcomes Black vs White by State (Children Born 1978–1983, Parents at 25th Income Percentile)
 <head>
